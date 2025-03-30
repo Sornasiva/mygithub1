@@ -2,6 +2,7 @@ body{
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     margin: 50px;
+    background-color: aqua;
 }
 .container{
     max-width: 400px;
@@ -9,9 +10,12 @@ body{
     padding: 20px;
     border: 1px solid blue;
     border-radius: 10px;
+    background-color: yellowgreen;
 }
 button{
     margin-top: 20px;
     padding: 10px;
     cursor: pointer;
+    color: white;
+    background-color: orangered;
 }
